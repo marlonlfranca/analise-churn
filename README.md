@@ -34,13 +34,10 @@ Pasta destinada a códigos python que auxiliarão na criação do código do mod
 
 ## Compreensão do Negócio
 Existem dois problemas de negócio neste projeto:
-1. Por que os clientes cancelaram com nosso banco?
-2. Como podemos prever os próximos clientes que poderão cancelar?
-
-#### Por que os clientes cancelaram com nosso banco?
+### 1. Por que os clientes cancelaram com nosso banco?
 Essa será a primeira entrega realizada pelo projeto, onde saberei dizer as principais causas (ou combinação de causas/contextos) que levaram os clientes a cancelarem seus serviços, tornando-se parte da estatística de Churn. Nessa etapa será entregue uma Análise Descritiva (O que aconteceu?) e Diagnóstica (Por que aconteceu?), esclarendo as principais dúvidas do negócio a respeito do primeiro problema de negócio, fornecendo ao negócio, o conhecimento sobre as principais causas que levaram essa situação a ocorrer, e desta forma, planos de negócios poderão ser desenvolvidos a fim de evitar a repetição dessas situações.
 
-#### Como podemos prever os próximos clientes que poderão cancelar?
+### 2. Como podemos prever os próximos clientes que poderão cancelar?
 A etapa anterior descreveu as possíveis causas que levaram os clientes a cancelar com o banco, porém, não há nenhuma predição ou dado estatístico a respeito do futuro. A segunda etapa trata da estatística do futuro, onde será criado um modelo de machine learning para a predição do Churn, assim, o banco poderá agir de forma proativa, buscando prever o desdobramentos das ações que podem ser tomadas, as estatísticas a favor ou contra o negócio, além de fornecer uma visão sobre os futuros cancelamentos. Com essa ferramenta entregue, ações concretas poderão ser tomadas, diminuindo o percentual de Churn de clientes e evitando a perda de receita da companhia.
 
 ## Compreensão dos dados
